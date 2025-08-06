@@ -1,16 +1,44 @@
-## Hi there 👋
+## Merhaba,ben Talha Aktaş 👋
 
-<!--
-**talhaaktss/talhaaktss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *İş Analisti | Veri Meraklısı | Raporlama ve Süreç Geliştirme Uzmanı*  
+📊 SQL | Power BI | Excel | SAP | Jira | Agile  
 
-Here are some ideas to get you started:
+Gazi Üniversitesi İstatistik bölümü mezunuyum. İş analizi, veri analizi ve süreç optimizasyonu alanlarında kendimi geliştiriyorum.  
+Aynı zamanda Anadolu Üniversitesi Bilgisayar Programlama bölümünde öğrenimime devam ediyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> GitHub sayfamda iş analizi, SQL veri çekimi ve Power BI ile raporlama konularında örnek projelerime yer veriyorum.
+
+---
+
+## 🚀 Öne Çıkan Projelerim
+
+### 🔹 SQL-Projeleri
+- Senaryo tabanlı SQL sorguları  
+- Veri temizleme, gruplama ve raporlama örnekleri  
+
+### 🔹 PowerBI-Dashboardlar
+- SQL verisiyle oluşturulmuş görsel dashboard örnekleri  
+
+### 🔹 Kredi-Basvuru-Sureci
+- Banka başvuru süreci akış diyagramı ve iş analizi  
+
+### 🔹 Excel-Raporlari
+- Pivot, KPI ve dashboard örnekleri  
+
+---
+
+## 📚 Sertifikalarım
+
+- Veri Bilimi için Temel İstatistik  
+- Rust Programlama  
+- Agile ve Scrum  
+- Microsoft Excel  
+- Uluslararası İş Analizi Teknikleri  
+- SQL Eğitimi  
+
+---
+
+## 📫 Bana Ulaşın
+
+📍 Ankara, Türkiye  
+📧 talhaaktas147@hotmail.com  
